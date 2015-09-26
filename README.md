@@ -1,6 +1,6 @@
-# Python Plotting: Matplotlib
+# Visualization with Python
 
-Materials for teaching the Matplotlib workshop at UC Berkeley's D-Lab.
+Materials for teaching the visualization workshop at UC Berkeley's D-Lab.
 
 ## Set Up
 
