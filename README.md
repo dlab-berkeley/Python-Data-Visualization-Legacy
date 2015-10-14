@@ -45,10 +45,7 @@ For this workshop, we'll provide an introduction to visualization with Python. W
 * scatter
 * boxplot
 
-We'll also learn about:
-
-* creating multiple plots in a single figure
-* styles and customizing plots
+We'll also learn about styles and customizing plots.
 
 Throughout the workshop, we'll discuss the plot types best suited for particular kinds of data.
 
