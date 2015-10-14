@@ -24,7 +24,7 @@ Once those are installed, you can get the necessary files for this workshop by d
 
 ```
 # clone the repository
-$ git clone https://github.com/juanshishido/visualization-with-python
+$ git clone https://github.com/dlab-berkeley/visualization-with-python.git
 
 # navigate to the repo
 $ cd visualization-with-python
