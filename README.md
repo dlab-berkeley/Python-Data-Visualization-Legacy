@@ -2,6 +2,21 @@
 
 Materials for teaching the visualization workshop at UC Berkeley's D-Lab.
 
+## Outline
+
+For this workshop, we'll provide an introduction to visualization with Python. We'll cover visualization theory and plotting with Matplotlib and Seaborn, working through examples in a Jupyter (formerly IPython) notebook. The following plot types will be covered:
+
+* line
+* bar
+* scatter
+* boxplot
+
+We'll also learn about styles and customizing plots.
+
+Throughout the workshop, we'll discuss the plot types best suited for particular kinds of data.
+
+Basic familiarity with Python *is* assumed.
+
 ## Set Up
 
 For this workshop we'll be using a Jupyter notebook. (An IPython notebook will be provided for attendees who are not yet on IPython 3.0.0 or above.)
@@ -36,17 +51,4 @@ $ jupyter notebook
 $ ipython notebook
 ```
 
-## Outline
 
-For this workshop, we'll provide an introduction to visualization with Python. We'll cover visualization theory and plotting with Matplotlib and Seaborn, working through examples in a Jupyter (formerly IPython) notebook. The following plot types will be covered:
-
-* line
-* bar
-* scatter
-* boxplot
-
-We'll also learn about styles and customizing plots.
-
-Throughout the workshop, we'll discuss the plot types best suited for particular kinds of data.
-
-Basic familiarity with Python *is* assumed.
