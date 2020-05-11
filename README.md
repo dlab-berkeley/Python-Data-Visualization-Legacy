@@ -51,4 +51,6 @@ $ jupyter notebook
 $ ipython notebook
 ```
 
+### Launch binder
 
+If you have trouble installing the software or can otherwise not get the Jupyter Notebook to open, click this "launch binder" badge to start this session [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/visualization-with-python/master)
