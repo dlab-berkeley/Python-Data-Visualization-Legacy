@@ -61,7 +61,7 @@ Throughout the workshop, we'll discuss the plot types best suited for particular
 
 Basic familiarity with Python *is* assumed.
 
-### 5. Further resources
+### 5. Resources
 
 [Pyplot tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)
 
