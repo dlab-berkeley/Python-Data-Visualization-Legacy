@@ -10,13 +10,13 @@ The best learning experience happens when you can edit and run code. So, please 
 
 2. If you are using Terminal (Mac) or GitBash (PC), you can pip install the necessary packages by typing: 
 
-`$ pip install seaborn pandas matplotlib jupyter`
+`$ pip install seaborn pandas matplotlib numpy jupyter`
 
 > Windows users only - if you wish to emulate the Bash programming language found in Mac users' "Terminal" application, [click here to download GitBash](https://git-scm.com/downloads), a Unix command-line environment for Windows users. 
 
 Alternatively, you can install these packages by adding a cell to the top of your Jupyter Notebook and typing: 
 
-`!pip install pandas matplotlib jupyter`
+`!pip install seaborn pandas matplotlib numpy jupyter`
 
 ### 2. Files for the workshop
 
