@@ -44,7 +44,7 @@ Now that you have all the required software and materials, you need to run the c
 
 5. By default, the necessary packages for this workshop should already be installed. You can install them within the Jupyter notebook by running the following line in its own cell:
 
-<p align="center">`!pip install seaborn pandas matplotlib numpy jupyter`</p>
+```!pip install seaborn pandas matplotlib numpy jupyter```
 
 Note that all of the above steps can be run from the terminal, if you're familiar with how to interact with Anaconda in that fashion. However, using Anaconda Navigator is the easiest way to get started if this is your first time working with Anaconda.
 
@@ -56,7 +56,7 @@ The DataHub downloads this repository, along with any necessary packages, and al
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
-<p align="center">[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Data-Visualization/HEAD)</p>
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Data-Visualization/HEAD)
 
 By using this button, however, you cannot save your work.
 
