@@ -44,7 +44,7 @@ Now that you have all the required software and materials, you need to run the c
 
 5. By default, the necessary packages for this workshop should already be installed. You can install them within the Jupyter notebook by running the following line in its own cell:
 
-```!pip install seaborn pandas matplotlib numpy jupyter```
+> ```!pip install seaborn pandas matplotlib numpy jupyter```
 
 Note that all of the above steps can be run from the terminal, if you're familiar with how to interact with Anaconda in that fashion. However, using Anaconda Navigator is the easiest way to get started if this is your first time working with Anaconda.
 
