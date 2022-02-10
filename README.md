@@ -86,7 +86,7 @@ Here are other Python workshops offered by the D-Lab:
 * [Introduction to Pandas](https://github.com/dlab-berkeley/introduction-to-pandas)
 * [Geospatial Fundamentals in Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)
 
-### Intermediate/advanced copmetency
+### Intermediate/advanced competency
 
 * [Computational Text Analysis in Python](https://github.com/dlab-berkeley/computational-text-analysis-spring-2019)
 * [Introduction to Machine Learning in Python](https://github.com/dlab-berkeley/python-machine-learning)
