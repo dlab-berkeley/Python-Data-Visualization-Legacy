@@ -44,7 +44,7 @@ Now that you have all the required software and materials, you need to run the c
 
 5. By default, the necessary packages for this workshop should already be installed. You can install them within the Jupyter notebook by running the following line in its own cell:
 
-> ```!pip install seaborn pandas matplotlib numpy jupyter```
+> ```!pip install -r requirements.txt```
 
 Note that all of the above steps can be run from the terminal, if you're familiar with how to interact with Anaconda in that fashion. However, using Anaconda Navigator is the easiest way to get started if this is your first time working with Anaconda.
 
@@ -86,7 +86,7 @@ Here are other Python workshops offered by the D-Lab:
 * [Introduction to Pandas](https://github.com/dlab-berkeley/introduction-to-pandas)
 * [Geospatial Fundamentals in Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)
 
-### Intermediate/advanced copmetency
+### Intermediate/advanced competency
 
 * [Computational Text Analysis in Python](https://github.com/dlab-berkeley/computational-text-analysis-spring-2019)
 * [Introduction to Machine Learning in Python](https://github.com/dlab-berkeley/python-machine-learning)
