@@ -3,3 +3,4 @@ pandas
 numpy
 matplotlib
 jupyter
+pyprojroot
